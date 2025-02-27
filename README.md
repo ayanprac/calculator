@@ -2,9 +2,6 @@
 
 A simple web-based calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, along with other standard functions found in a normal calculator.
 
-## Site Live at :
-https://ayown.github.io/CALCULATOR/
-
 ## Features
 
 ![Website Screenshot](WEB.png)
